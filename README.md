@@ -1,2 +1,4 @@
 # demo-node
-testing new node project
+This is testing node project.
+
+App contains sample api URL.
