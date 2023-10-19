@@ -5,7 +5,7 @@ const port = 8000;
 
 const server = http.createServer((req, res) => {
         if(req.url === '/') {
-            res.end('Hello world');
+            res.end('This is demo node project');
         }
         if(req.url === '/api') {
             res.write(JSON.stringify([1,2,3]));
