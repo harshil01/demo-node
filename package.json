@@ -1,0 +1,22 @@
+{
+  "name": "demo-node",
+  "version": "1.0.0",
+  "description": "just for lerning purpose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshil01/demo-node.git"
+  },
+  "keywords": [
+    "demoNode"
+  ],
+  "author": "harshil dholakiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshil01/demo-node/issues"
+  },
+  "homepage": "https://github.com/harshil01/demo-node#readme"
+}
